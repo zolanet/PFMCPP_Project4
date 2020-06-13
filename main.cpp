@@ -90,7 +90,8 @@ int main()
 }
 
 /*
-your program should generate the following output.  
+your program should generate the following output EXACTLY.
+This includes the warnings.
 Use a service like https://www.diffchecker.com/diff to compare your output. 
 you should have no errors or warnings.
 
